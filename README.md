@@ -1,0 +1,2 @@
+# forpython
+setting up git
